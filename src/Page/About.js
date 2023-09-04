@@ -1,4 +1,5 @@
 import React from "react";
+import profilePic from '../assets/profile-pic.jpeg'
 
 const About = () => {
   return (
@@ -6,7 +7,7 @@ const About = () => {
       <h3 id="about-me">About Me</h3>
       <section className="textbox">
         <img
-          src="./Assets/images/profile-pic.jpeg"
+          src={profilePic}
           alt="Me!"
           className="float-left"
         />
