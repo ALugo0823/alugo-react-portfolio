@@ -99,7 +99,7 @@ const BestChallenges = () => {
               <div className="d-flex justify-content-center">
               <img
                 src={textEditApp}
-                alt="screenshot of the weather dashboard"
+                alt="text edit app screenshot"
                 className="img-fluid rounded"
               />
               </div>

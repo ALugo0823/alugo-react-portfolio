@@ -1,6 +1,6 @@
 import React from "react";
-import BestChallenges from "../components/Projects/BestChallenges";
-import GroupProjects from "../components/Projects/GroupProjects";
+import BestChallenges from "../components/Project/BestChallenges";
+import GroupProjects from "../components/Project/GroupProjects";
 
 
 const Portfolio = () => {
