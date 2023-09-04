@@ -1,6 +1,6 @@
 import React from "react";
 import prework from "../../../assets/pwst-ss.png";
-import passwordGeneratorApp from "../../../assets/";
+import passwordGeneratorApp from "../../../assets/password-generator-screenshot.png";
 import quizGame from "../../../assets/coding-quiz-game.png";
 import noteTakerAPP from "../../../assets/note-taker.png";
 import textEditApp from "../../../assets/jate-ss.png";

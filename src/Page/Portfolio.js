@@ -6,8 +6,8 @@ import GroupProjects from "../components/Project/GroupProjects";
 const Portfolio = () => {
   return (
     <div className="main-container">
-      <BestChallenges />
-      <GroupProjects />
+      <BestChallenges/>
+      <GroupProjects/>
       </div>
   );
 };

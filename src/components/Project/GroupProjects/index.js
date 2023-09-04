@@ -1,5 +1,5 @@
 import React from "react";
-import projOne from "../../../assets/project-screenshot";
+import projOne from "../../../assets/project-screenshot.png";
 import projTwo from "../../../assets/updated-main.png";
 
 const GroupProjects = () => {
