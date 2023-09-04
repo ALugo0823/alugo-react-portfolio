@@ -1,14 +1,14 @@
 import React from "react";
-import { projects } from "../data";
-import Project from "../components/Project";
+import BestChallenges from "../components/Projects/BestChallenges";
+import GroupProjects from "../components/Projects/GroupProjects";
+
 
 const Portfolio = () => {
   return (
-    <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-      {projects.map((project, i) => (
-        <Project project={project} key={i} />
-      ))}
-    </div>
+    <div className="main-container">
+      <BestChallenges />
+      <GroupProjects />
+      </div>
   );
 };
 
