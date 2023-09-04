@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alugo-react-portfolio/static/css/main.1ff44acd.css",
+    "main.js": "/alugo-react-portfolio/static/js/main.0bf0b723.js",
+    "static/media/project-screenshot.png": "/alugo-react-portfolio/static/media/project-screenshot.ff6d884f9caf6b52eb74.png",
+    "static/media/updated-main.png": "/alugo-react-portfolio/static/media/updated-main.100d6e64598398937e56.png",
+    "static/media/pwst-ss.png": "/alugo-react-portfolio/static/media/pwst-ss.212babeb41d2b45df792.png",
+    "static/media/coding-quiz-game.png": "/alugo-react-portfolio/static/media/coding-quiz-game.57ceba7d00e946054d03.png",
+    "static/media/jate-ss.png": "/alugo-react-portfolio/static/media/jate-ss.f6b460aed7acf27e7071.png",
+    "static/media/password-generator-screenshot.png": "/alugo-react-portfolio/static/media/password-generator-screenshot.8e72ad97c45c5195efc1.png",
+    "static/media/note-taker.png": "/alugo-react-portfolio/static/media/note-taker.3f94125739cd431d90c7.png",
+    "static/media/profile-pic.jpeg": "/alugo-react-portfolio/static/media/profile-pic.331fd1caf1493be5bfd3.jpeg",
+    "index.html": "/alugo-react-portfolio/index.html",
+    "main.1ff44acd.css.map": "/alugo-react-portfolio/static/css/main.1ff44acd.css.map",
+    "main.0bf0b723.js.map": "/alugo-react-portfolio/static/js/main.0bf0b723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff44acd.css",
+    "static/js/main.0bf0b723.js"
+  ]
+}
